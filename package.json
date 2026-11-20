@@ -1,0 +1,15 @@
+{
+  "name": "tienda-online",
+  "version": "1.0.0",
+  "description": "Proyecto Bootstrap",
+  "main": "index.js",
+  "scripts": {
+    "dev": "lite-server"
+  },
+  "dependencies": {
+    "bootstrap": "^4.6.2",
+    "jquery": "^3.7.1",
+    "popper.js": "^1.16.1",
+    "lite-server": "^2.6.1"
+  }
+}
